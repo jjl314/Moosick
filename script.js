@@ -106,7 +106,7 @@ function shuffle(array) {
 function loadSong(song) {
   title.innerText = song;
   audio.src = `music/${song}.mp3`;
-  cover.src = `images/cathuh.jpg`;
+  cover.src = `images/cathuh.png`;
 }
 
 // Play song
