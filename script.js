@@ -54,7 +54,7 @@ const songs = ['44phantom - freak (Official Video)',
 'Oh, Weatherly - Here Tonight',
 'Open Water',
 'RILEY - SUMMERTIME (feat. lil aaron) [Official Audio Stream]',
-'RYYZN - MIND FxCK [Official Lyric Video]'
+'RYYZN - MIND FxCK [Official Lyric Video]',
 'Red Light Kisser (with Jordan Pundik of New Found Glory)',
 'Rex Orange County - Sunflower (Official Audio)',
 'See You Around (Lyrics)',
