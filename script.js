@@ -77,7 +77,10 @@ const songs = ['44phantom - freak (Official Video)',
 'girlfriends - (e)motion sickness',
 'girlfriends- Jessica',
 'nothing,nowhere. - hammer Lyrics',
-'stupid for you waterparks lyrics'
+'stupid for you waterparks lyrics',
+'jay kim - growth (Official Audio)',
+'jay kim - mouth (Official Audio)',
+'jay kim - parachute (Official Audio)',
 ];
 
 shuffle(songs);
